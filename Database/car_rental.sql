@@ -30,6 +30,9 @@ create table rentals (
 	id int not null auto_increment,
     rental_date date not null,
     return_date date not null,
+    ALTER TABLE rental_requests
+
+
     price float not null,
     user_id int,
     car_id int,

@@ -110,7 +110,7 @@ const HomeSidebarContent = () => {
                 justifyContent="space-between"
               >
                 <Text fontSize="2xl" fontFamily="monospace" fontWeight="bold">
-                  LOCAVO
+                  Shree Sai
                 </Text>
                 <CloseButton
                   display={{ base: "flex", md: "none" }}

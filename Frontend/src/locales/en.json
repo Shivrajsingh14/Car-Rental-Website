@@ -50,7 +50,7 @@
       "title": "Small Business Owner"
     }
   ],
-  "footer.about": "About LOCAVO",
+  "footer.about": "About Shree Sai",
   "footer.aboutDescription": "A wide selection of vehicles, competitive prices to make your experience enjoyable.",
   "footer.company": "Company",
   "footer.blog": "Blog",
@@ -115,7 +115,7 @@
     "password": "Password",
     "createAccount": "Create account",
     "signIn": "Sign In",
-    "welcome":"Welcome to Locavo",
+    "welcome":"Welcome to Shree Sai",
     "loginMessage": "Don't have an account?",
     "signupMessage": "Already a user?"
   },
